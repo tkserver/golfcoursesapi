@@ -13,8 +13,4 @@ app.use('/users', userRoutes); // Example user routes
 // Middleware setup...
 app.use('/courses', coursesRoutes); // Using the courses route
 
-// Other middleware and routes...
-
-// Additional routes and middleware
-
 module.exports = app;
