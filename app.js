@@ -8,8 +8,6 @@ app.use(express.json()); // Middleware for parsing application/json
 
 app.use('/users', userRoutes); // Example user routes
 
-// Other imports...
-
 // Middleware setup...
 app.use('/courses', coursesRoutes); // Using the courses route
 
