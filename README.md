@@ -8,6 +8,8 @@ npm test
 npm run test:coverage
 npx jest --coverage
 
-# terminal commands for server
-# login
-ssh -l root  *aRsBM_Eg)dn~vF*s%
+# check for node running in terminal
+aux | grep node
+
+# check for specific node app running in terminal
+aux | grep app.js
