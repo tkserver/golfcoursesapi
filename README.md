@@ -1,3 +1,6 @@
+# start app with nodemon so changes automatically refresh
+npm run dev
+
 # start the app
 npm start
 
